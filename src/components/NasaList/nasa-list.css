@@ -1,0 +1,10 @@
+.container {
+  width: 980px;
+  margin: 0 auto;
+}
+.jsonViewer {
+  min-height: 100px;
+  min-width: 800px;
+  color: black;
+  padding: 20px;
+}
